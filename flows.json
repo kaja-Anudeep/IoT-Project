@@ -1,0 +1,1 @@
+[{"id":"bcf99d93.8ed6f","type":"function","z":"8fb72b2a.281338","name":"Soil_temp","func":"msg.payload=msg.payload.d.objectTemp;\nreturn msg;","outputs":1,"noerr":0,"x":466,"y":120,"wires":[["a0630263.dac86","378bc372.649bac"]]}]
